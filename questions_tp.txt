@@ -1,2 +1,6 @@
 question 1:
 Bob doit lancer la commande git pull pour mettre à jour sa version
+
+question 2:
+Cela signifie qu'aucun morceaux de code ne sont entrés en conflit et que la fusion s'est donc faite automatiquement
+
