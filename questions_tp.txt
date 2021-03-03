@@ -1,0 +1,2 @@
+question 1:
+Bob doit lancer la commande git pull pour mettre à jour sa version
