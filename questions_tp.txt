@@ -6,3 +6,9 @@ Cela signifie qu'aucun morceaux de code ne sont entrés en conflit et que la fus
 
 question 3:
 Il n'y a pas de priorité, il faut résoudre le conflit
+
+question 4:
+Git diff permet de voir la difference entre deux branches
+
+question 5:
+git blame sert à voir la dernière personne qui a modifié chaque ligne
